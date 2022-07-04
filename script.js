@@ -13,7 +13,7 @@
 let players = [
     'Rafael',
     'Daniel',
-    'Manoel'    //OBTEVE BÔNUS E SEMPRE VAI SUBIR POSIÇÃO => position +1
+    'Manoel'    //OBTEVE BÔNUS E SEMPRE VAI SUBIR POSIÇÃO => position +1 (posição Daniel - 1)
 ]
 //console.log(players.indexOf('Daniel'))
 
