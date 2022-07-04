@@ -18,7 +18,7 @@ let players = [
 //console.log(players.indexOf('Daniel'))
 
 function positions(playersPositions){
-    let podio = []
+    let podio = ''
     let danielPos = playersPositions.indexOf('Daniel')
 
         if((danielPos) - 1 > 0){
